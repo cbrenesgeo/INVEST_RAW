@@ -1,4 +1,4 @@
-##Help on function execute in module natcap.invest.carbon:
+Help on function execute in module natcap.invest.carbon:
 
 execute(args)
     Carbon.
